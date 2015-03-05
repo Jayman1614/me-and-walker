@@ -15,11 +15,21 @@
 </head>
 <body>
 <H1>Funtion EX</H1>
-<P></P>
+<div>
+  	<ul>
+  	  <li>Jesse</li>
+  	  <li>Walker</li>
+  	  <li>About us</li>
+  	  <li>Contact</li>
+  	  <li>Fuck off</li>
+  	</ul>
+
+
+  </div>
 <SCRIPT LANGUAGE="JavaScript">
 Greet ("Walker");
 Say ("your last name?");
 
 </SCRIPT>
 </body>
-</html>
+</html> 
