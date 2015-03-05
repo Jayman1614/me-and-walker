@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>Functions</title>
+	<SCRIPT LANGUAGE="JavaScript">
+		function Greet(who) {
+			alert("Greetings..." + who);
+		}
+	</SCRIPT>
+	<SCRIPT LANGUAGE="JavaScript">
+		function Say (who) {
+			alert("Whats " + who);
+		}
+	</SCRIPT>
+
+</head>
+<body>
+<H1>Funtion EX</H1>
+<P></P>
+<SCRIPT LANGUAGE="JavaScript">
+Greet ("Walker");
+Say ("your last name?");
+
+</SCRIPT>
+</body>
+</html>
